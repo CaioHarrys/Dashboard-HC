@@ -75,7 +75,7 @@
                     Acompanhamento completo tanto financeiro quanto de gestão de pessoas.
                   </p>
                   <a
-                    class="text-body text-sm font-weight-bold mb-0 icon-move-right mt-auto"
+                    class="ver-mais text-sm font-weight-bold mb-0 icon-move-right mt-auto"
                     href="javascript:;"
                   >
                     Ver Mais
